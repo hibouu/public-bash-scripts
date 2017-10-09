@@ -1,5 +1,12 @@
 #!/bin/bash
 # backup partitions using dd
+# make the script executable 
+### run this command on the terminal "chmod +x nom_du_script.sh"
+# execute 
+### "./nom_du_script.sh"
+# list mounted devices 
+### run "df" in the terminal
+
 
 echo "Back-up Files"
 
