@@ -7,7 +7,6 @@
 # list mounted devices 
 ### run "df" in the terminal
 
-
 echo "Back-up Files"
 
 # variables
